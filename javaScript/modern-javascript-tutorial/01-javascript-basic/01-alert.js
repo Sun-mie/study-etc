@@ -1,0 +1,1 @@
+alert("Hi, I'm in alert.js");
