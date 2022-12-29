@@ -5,12 +5,20 @@ const app = Vue.createApp({
     data() {
         return {
             //숫자, 배열, 객체 등 자유롭게 사용 가능한 유연함이 있음.
-            courseGoal:'Finish the course and learn Vue!',
+            courseGoalA:'Finish the course and learn Vue!',
+            courseGoalB: '<h2>Master Vue and build amazing apps!</h2>',
             vueLink : 'https://vuejs.org/'
         };
     },
     methods:{
-
+        outputGoal(){
+            const randomNumber = Math.random();
+            if(randomNumber < 0.5){
+                return this.courseGoalA;
+            }else{
+                return this.courseGoalB;
+            }
+        }
     }
 });
 //Vue와 id="user-goal"를 연결
