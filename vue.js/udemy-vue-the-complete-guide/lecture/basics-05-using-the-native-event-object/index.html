@@ -21,12 +21,18 @@
       <button @click="add(10)">Add 10</button>
       <button @click="reduce(5)">Subtract 5</button>
       <p>Result: {{ counter }}</p>
-          <!--v-model(양방향바인딩)이 관리할 data property를 넣으면 property값을 넘겨주고, input이벤트도 대신한다.-->
+          <!--
+            v-model(양방향바인딩)이 관리할 data property를 넣으면
+            property값을 넘겨주고, input이벤트도 대신한다.
+          -->
       <input type="text" v-model="name"> 
       <input type="text" v-model="lastName"> 
       <button @click="resetInput">Reset Input</button>
-        <!-- computed property는 보간법에서 괄호없이 호출된다. -->
-        <!-- methods는 {{ outputFullname() }}로 호출 -->
+      
+        <!-- 
+          computed property는 보간법에서 괄호없이 호출된다.
+          methods는 {{ outputFullname() }}로 호출
+         -->
       <p>Your Name: {{ fullname }}</p>
     </section>
   </body>
