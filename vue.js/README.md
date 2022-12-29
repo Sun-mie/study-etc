@@ -1,6 +1,5 @@
-## Vue.js ##
-##### [🔗Vue.js 정리 노션](https://separate-chimpanzee-eab.notion.site/vue-js-976572170dee441f985644cf720b5536) #####
----
+## Vue.js ## ##### [🔗Vue.js 정리 노션](https://separate-chimpanzee-eab.notion.site/vue-js-976572170dee441f985644cf720b5536) #####
+
 ### 폴더 설명 ###
 1. `udemy-vue-the-complete-guide`
 
