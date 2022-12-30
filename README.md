@@ -4,26 +4,13 @@
 
 ### 폴더 설명
 
-1️⃣ java 
-
-파일 없음
-
-2️⃣ javaScript 
-
-1. **`modern-javascript-tutorial`** 
+1.  **java** 
     
-    :[모던 JavaScript 튜토리얼](https://ko.javascript.info/)을 기반으로한 문제풀이
+    파일 없음
     
-
-3️⃣ vue 
-
-1. `udemy-vue-the-complete-guide` 
-    
-    :Udemy강의 [【한글자막】 Vue - 완벽 가이드](https://www.udemy.com/course/vue-router-composition-api/)를 기반으로 강의를 보며 공부한 내용
-    
-
-4️⃣ etc
-
-1. `ezen-academy` 
-    
-    :국비과정 servlet 과제
+2.  **javaScript** 
+    1. **`modern-javascript-tutorial` -** [모던 JavaScript 튜토리얼](https://ko.javascript.info/)을 기반으로한 문제풀이
+3.  **vue** 
+    1. `udemy-vue-the-complete-guide` - Udemy강의 [【한글자막】 Vue - 완벽 가이드](https://www.udemy.com/course/vue-router-composition-api/)를 기반으로 강의를 보며 공부한 내용
+4.  **etc**
+    1. `ezen-academy` - 국비과정 servlet 과제
