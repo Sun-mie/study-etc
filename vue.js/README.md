@@ -1,7 +1,5 @@
 ## Vue.js ##
 
-공부한 내용은 아래 노션에 정리해두고 있습니다.
-
 ##### [🔗Vue.js study Notion](https://separate-chimpanzee-eab.notion.site/vue-js-976572170dee441f985644cf720b5536) #####
 
 ### 폴더 설명 ###
