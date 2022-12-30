@@ -20,15 +20,15 @@
       <h2>Events in Action</h2>
       <button v-on:click="add(1)">Add 1</button>
       <button @click="reduce(1)">Remove 1</button>
+      <!-- v-once는 보간법을 한번만 실행(초기에 받은 값 그대로 남김)처음 띄운 구문을 변경하고싶지 않을때 사용한다. -->
+      <p v-once>Starting Counter: {{ counter }}</p>
       <p>Result: {{ counter }}</p>
-      <!-- <input type="text" v-on:input="setName($event, 'Jo')" v-on:keyup.enter="confirmInput">
-      <p>Your Name {{ confirmdName }}</p> -->
+      <input type="text" v-on:input="setName($event, 'Jo')" v-on:keyup.enter="confirmInput">
+      <p>Your Name {{ confirmdName }}</p>
       <form v-on:submit.prevent="submitForm">
         <input type="text">
         <button>Sign Up</button>
       </form>
-      <input type="text" v-on:input="enterName($event)" v-on:keyup.enter="enteredName">
-      <p>Entered Name : {{ enteredName }}</p>
     </section>
   </body>
 </html>

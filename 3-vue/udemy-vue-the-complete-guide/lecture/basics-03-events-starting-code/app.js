@@ -1,7 +1,7 @@
 const app = Vue.createApp({
   data() {
     return {
-      counter: 0,
+      counter: 10,
       name:'',
       confirmdName:'',
       enteredName: ''
@@ -20,17 +20,11 @@ const app = Vue.createApp({
       // 두개 이상의 인자를 받아 처리하는 경우 vue에 내장된 $event를 사용할 수 있다.
       this.name = event.target.value + ' ' + lastName;
     },
-  submitForm(event){
+  submitForm(){
     alert('Submitted');
   },
   confirmInput(){
     this.confirmdName = this.name
-  },
-  enterName(e){
-    this.name = e.target.value;
-  },
-  enteredName(){
-    this.enteredName = this.name;
   }
   }
 });
