@@ -4,7 +4,7 @@
 
 # 폴더 설명
 
-📁 **vue**
+📁 **ezen-academy**
 
-> `ezen-academy`
+> `servelet-board`
 <br>    국비과정 servlet 과제
