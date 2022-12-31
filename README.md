@@ -6,6 +6,6 @@
 
 📁 **vue**
 
-    > `ezen-academy`
+    > `ezen-academy` [바로가기](https://github.com/Sun-mie/study-etc/tree/main/ezen-academy/servelet_board)
 
     국비과정 servlet 과제
