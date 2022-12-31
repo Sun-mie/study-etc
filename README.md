@@ -6,5 +6,5 @@
 
 📁 **ezen-academy**
 
-> `servelet-board` [바로가기](https://github.com/Sun-mie/study-etc/tree/main/ezen-academy/servelet_board)
+> `servelet-board`
 <br>    국비과정 servlet 과제
