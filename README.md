@@ -6,7 +6,7 @@
 
 📁 **jasper-studio**
 
-> jasper-studio ([Notion jasperStudio](https://www.notion.so/Jasper-Studio-ffae6af43f014d6ea86ada88972f6c07))
+> jasper-studio ([Notion jasperStudio](https://shineme.notion.site/jasper-studio-ffae6af43f014d6ea86ada88972f6c07))
 <br> `JasperStudio 공부 내용`
 
 📁 **ezen-academy**
