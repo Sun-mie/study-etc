@@ -4,10 +4,12 @@
 
 # description
 
-📁 **ezen-academy**
+📁 **jasper-studio**
 
 > jasper-studio ([Notion jasperStudio](https://www.notion.so/Jasper-Studio-ffae6af43f014d6ea86ada88972f6c07))
 <br> `JasperStudio 공부 내용`
+
+📁 **ezen-academy**
 
 > servelet-board
 <br> `국비과정 servlet 과제`
